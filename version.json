@@ -1,7 +1,8 @@
 {
-  "version": "V2",
-  "date": "2026-11-18",
+  "version": "V3",
+  "date": "2026-11-19",
   "notes": [
+    "V3 — Agent de lecture local sans IA (fiches de paie, contrats, extraits BNP CSV/Excel/PDF, factures) ; « Lire avec Claude » à la demande ; coffre-fort : export rangé par type et par nom, puis retrait des fichiers de LifeAdmin en gardant leurs informations.",
     "V2 — Code de connexion (demandé à l'ouverture puis toutes les heures) et données chiffrées dans le navigateur. Enregistrement automatique dans un dossier de l'ordinateur ou de Google Drive. Publication protégée par mot de passe sur GitHub Pages, comme Altesia Finance.",
     "V1 — Première version navigateur : checklist, documents, échéances, budget, banque, assistant, sauvegarde et échange avec la version PC."
   ]
